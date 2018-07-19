@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Laptrinh/Struts/ShoppingOnlineUsingStruts2/web/viewCart.jsp</file>
+            <file>file:/D:/Laptrinh/Struts/ShoppingOnlineUsingStruts2/web/onlineShopping.jsp</file>
+            <file>file:/D:/Laptrinh/Struts/ShoppingOnlineUsingStruts2/src/java/namdp/tbl_Mobile/tbl_MobileDAO.java</file>
+            <file>file:/D:/Laptrinh/Struts/ShoppingOnlineUsingStruts2/src/java/namdp/initOnlineShopping/InitOnlineShoppingAction.java</file>
+            <file>file:/D:/Laptrinh/Struts/ShoppingOnlineUsingStruts2/src/java/namdp/addToCart/AddToCartAction.java</file>
+            <file>file:/D:/Laptrinh/Struts/ShoppingOnlineUsingStruts2/web/META-INF/context.xml</file>
+            <file>file:/D:/Laptrinh/Struts/ShoppingOnlineUsingStruts2/src/java/namdp/connection/DBUtils.java</file>
+            <file>file:/D:/Laptrinh/Struts/ShoppingOnlineUsingStruts2/src/java/namdp/cartObj/CartObj.java</file>
+            <file>file:/D:/Laptrinh/Struts/ShoppingOnlineUsingStruts2/src/java/namdp/removeItem/RemoveItemFromCart.java</file>
+            <file>file:/D:/Laptrinh/Struts/ShoppingOnlineUsingStruts2/src/java/struts.xml</file>
+        </group>
+    </open-files>
+</project-private>

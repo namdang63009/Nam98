@@ -1,0 +1,25 @@
+<!DOCTYPE struts PUBLIC
+"-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+"http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+    <!-- Configuration for the default package. -->
+    <package name="default" extends="struts-default" namespace="/">
+        <action name="" class="namdp.initOnlineShopping.InitOnlineShoppingAction">
+            <result>onlineShopping.jsp</result>
+        </action>
+        <action name="viewCart">
+            <result>viewCart.jsp</result>
+        </action>
+        <action name="addToCart" class="namdp.addToCart.AddToCartAction">
+            <result name="success">onlineShopping.jsp</result>
+        </action>
+        <action name="removeCart" class="namdp.removeItem.RemoveItemFromCart">
+            <result name="success" type="redirectAction">viewCart</result>
+        </action>
+        <action name="addMore" class="namdp.initOnlineShopping.InitOnlineShoppingAction">
+            <result>onlineShopping.jsp</result>
+        </action>
+            
+    </package>
+</struts>
